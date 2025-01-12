@@ -31,5 +31,5 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=twonabi&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=twonabi&show_icons=true&locale=en" alt="twonabi" /></p>
+
 
