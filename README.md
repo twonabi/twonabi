@@ -33,4 +33,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=twonabi&show_icons=true&locale=en" alt="twonabi" /></p>
 
-<img src="https://github.com/twonabi/twonabi/blob/output/github-snake-dark.svg" width="100%">
